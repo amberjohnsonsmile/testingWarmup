@@ -1,9 +1,12 @@
-//your code here :)
+function sumTwoNum(firstNumber, secondNumber) {
+    return firstNumber + secondNumber;
+}
 
+function findArrayLength(array) {
+    return array.length;
+}
 
-
-//uncomment each function as you write it Amber :)
 module.exports = {
-	//sumTwoNum,
-	//findArrayLength
+    sumTwoNum,
+    findArrayLength
 };
