@@ -1,0 +1,25 @@
+{
+  "name": "testingwarmup",
+  "version": "1.0.0",
+  "description": "Testing Warmup",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briannovak/testingWarmup.git"
+  },
+  "author": "Brian Novak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/briannovak/testingWarmup/issues"
+  },
+  "homepage": "https://github.com/briannovak/testingWarmup#readme",
+  "dependencies": {
+    "mocha": "^4.0.1"
+  }
+}
